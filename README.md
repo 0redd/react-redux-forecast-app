@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# react-redux-forecast-app
 
 ###Getting Started###
 
